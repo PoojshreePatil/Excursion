@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h3{
+    color: white;
+    font-size: 50px;
+  font-weight: normal;
+}
+.download{
+    color: rgb(39, 145, 113);
+}
+p{
+    font-size: 28px;
+    color: grey;
+}
